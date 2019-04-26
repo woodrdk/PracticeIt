@@ -1,0 +1,9 @@
+The following steps represent part of an event's life cycle. Label each with their respective step (1 being the first step and 4 being the last step in the event's life cycle).
+
+An event occurs (e.g., a click)	= 2
+
+Some JavaScript code runs in response	= 3
+
+The page's appearance is updated in some way as a result = 4
+
+User interacts with the page (e.g., presses the left mouse button on a text input) = 1

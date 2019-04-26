@@ -1,0 +1,10 @@
+
+Which of the following could be considered "events" listened for by a JavaScript program?
+
+A user typing their name into a text input box on a web page.
+ 
+A user drags a page's scrollbar.
+
+A user clicks on a hyperlink to visit a different page.
+ 
+A user clicking on a web page's submit button

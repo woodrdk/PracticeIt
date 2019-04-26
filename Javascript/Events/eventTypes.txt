@@ -1,0 +1,8 @@
+
+Which of the following are valid event handlers?
+
+  onclick
+  onload
+  onmousedown
+  onchange
+  onmouseout

@@ -1,0 +1,52 @@
+
+1. What is the value of the variable x after the following code executes?
+
+var x = 3;
+x = x + 2;
+x = x + x;
+ 
+  10
+
+2. What is the value of the variable x after the following code executes?
+
+var x = -2;
+x = x * 5;
+var y = -x;
+x = x * y - 1;
+
+  -101
+
+3. What are the values of the variables x and y after the following code executes?
+
+var x = 3;
+var y = 12;
+x = x + 2;
+y = x * 3;
+x = 2.5 * y;
+
+x = 37.5
+y = 15
+
+4. What are the values of the variables x, y, and z after the following code executes?
+
+var x = 15;
+var y = 10;
+var z = y;
+x = x + 2;
+y = y - 1;
+z = z + x;
+
+x = 17
+y = 9
+z = 27
+
+5. What are the values of the variables one and two after the following code executes?
+
+var one = 8;
+var two = 19;
+one = two + one;
+two = one - two;
+one = one * (two / 2);
+
+one = 108
+two = 8

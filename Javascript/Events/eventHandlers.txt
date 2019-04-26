@@ -1,0 +1,3 @@
+What is the primary purpose of an event-handler?
+ 
+  Listen for a page event and respond with some action.
