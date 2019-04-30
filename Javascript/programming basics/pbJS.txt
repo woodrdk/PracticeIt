@@ -1,0 +1,58 @@
+theJSLanguage
+What type of programming language is JavaScript?
+ Dynamic client-side scripting language
+
+usingJavaScript
+Which of the following are things JavaScript (without libraries) may allow you to do?
+
+Insert dynamic text into HTML (e.g., a user's name)
+ Get information about a user's computer
+  Handle web page responses to a button click
+  Solve addition problems
+  Retrieve local time and date
+
+javaScriptDataTypes
+Which of the following are valid JavaScript data types?
+
+Number
+Boolean
+Null
+Symbol
+Undefined
+String
+
+numberTypes
+Which of the following JavaScript values has a type of Number?
+
+18
+123321
+-52.1
+102.102
+-3
+0
+
+scriptTags
+What is the correct syntax for including a JavaScript file named content.js with a script tag in the head of an HTML file, where both files are in the same local directory?
+
+<script src="content.js" type="text/javascript"></script>
+
+clientVsServer
+What is the primary difference between client-side and server-side code?
+
+Client-side code runs inside the user's web browser, while server-side code runs on the web server before the page is sent to the user's web browser.
+
+functionHeaderSyntax
+Which of the following headers uses the correct syntax for JavaScript functions?
+
+function example() {
+
+commentSyntax
+Which of the following are valid JavaScript code comments?
+
+ // testing, testing, 1, 2, 3...
+
+  /* Does this meet your commenting standards? */
+
+theDOM
+Which of the following is the correct abbreviation for DOM?
+ Document Object Model
